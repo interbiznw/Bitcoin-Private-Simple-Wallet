@@ -6,3 +6,18 @@ Bitcoin Private Simple Wallet
 
 
 ![SplashScreen](https://github.com/interbiznw/Bitcoin-Private-Simple-Wallet/blob/master/previews/splash1.png)
+
+
+
+
+![SplashScreen](https://github.com/interbiznw/Bitcoin-Private-Simple-Wallet/blob/master/previews/splash2.png)
+
+
+#Main Screen (temporary labels)
+
+
+![SplashScreen](https://github.com/interbiznw/Bitcoin-Private-Simple-Wallet/blob/master/previews/main.png)
+
+#In wallet debug console
+
+![SplashScreen](https://github.com/interbiznw/Bitcoin-Private-Simple-Wallet/blob/master/previews/debug.png)
