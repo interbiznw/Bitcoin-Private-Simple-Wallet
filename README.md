@@ -18,6 +18,6 @@ Bitcoin Private Simple Wallet
 
 ![SplashScreen](https://github.com/interbiznw/Bitcoin-Private-Simple-Wallet/blob/master/previews/main.png)
 
-#In wallet debug console
+#In wallet debug console - with live daemon info
 
 ![SplashScreen](https://github.com/interbiznw/Bitcoin-Private-Simple-Wallet/blob/master/previews/debug.png)
